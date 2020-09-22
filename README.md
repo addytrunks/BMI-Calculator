@@ -1,6 +1,6 @@
 # bmi_calculator
 
-An application which will calculate your BMI(Body Mass Index) and determine whether you are "normal" or "underweight" or "overweight".This app is built using - [Lab: Flutter](https://flutter.dev/docs/get-started/codelab) which is an UI developed by Google developers.
+An application which will calculate your BMI(Body Mass Index) and determine whether you are "normal" or "underweight" or "overweight".This app is built using - [Flutter](https://flutter.dev/docs/get-started/codelab) which is an UI developed by Google developers.
 
 ## Getting Started
 
